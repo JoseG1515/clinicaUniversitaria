@@ -10,7 +10,7 @@
 <body>
 <div id="seccionL">
 <form>
-<p id="title">LOGIN</p>
+<p id="title">LOGIN </p> 
 <hr>
 <br><br>
 <label id="usuario" >NOMBRE DE USUARIO </label>
